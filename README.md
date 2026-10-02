@@ -278,8 +278,6 @@ Throughout this project, I strengthened my SQL toolkit and became more confident
 
 - 📈 **Communicating Insights**: Learned how to present query results through visualisations and a structured GitHub README, making the analysis easier to understand and more useful as a portfolio project.
 # Conclusions
-### Insights
-# Conclusions
 
 ### Insights
 
