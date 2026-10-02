@@ -173,7 +173,8 @@ Bar graph visualizing the highest-paying skills for Data Analyst roles based on 
 
 This query identifies skills that offer the best combination of high demand and high average salary, helping determine which skills are most valuable for Data Analysts to learn.
 
-```sqlWITH skills_demand AS (
+```sql
+WITH skills_demand AS (
     SELECT
         skills_dim.skill_id,
         skills_dim.skills,
