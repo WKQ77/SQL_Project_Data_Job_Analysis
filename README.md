@@ -4,7 +4,7 @@
 💡
 
 🔍 SQL queries? Check them out here: 
-[project_sql folder](project_sql/)
+[project_sql folder](/project_sql/)
 
 # Background
 Driven by a quest to navigate the data analyst job market more effectively, this project was born from a desire to pinpoint top-paid and in-demand skills, streamlining others work to find optimal jobs.
